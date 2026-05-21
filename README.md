@@ -31,19 +31,26 @@ Former President of MLSA UCP. Bronze Prize winner at the Asian Young Creator Awa
 ---
 
 ### Projects
-
 | Project | What it does |
 |---|---|
 | [Microgrid AI Forecasting](https://github.com/Zeba-Mushtaq/Microgrid-AI-Forecasting) | LSTM models forecasting solar, wind & load demand using GEFCom2014 |
+| [Travel with Zeba — AI Chatbot](https://github.com/Zeba-Mushtaq/-travel-with-zeba-chatbot) | Live AI travel guide — destinations, visas, budgets & itineraries |
+| [AI Destination Explorer](https://zeba-portfolio.vercel.app) | Full-stack AI web app for personalized travel recommendations — Final Year Project A+ |
 | [AI-Powered Data Visualization](https://github.com/Zeba-Mushtaq/AI-Powered-Data-Visualization) | Transforms raw datasets into interactive visuals using Python & Plotly |
 | [LinkedIn Analysis](https://github.com/Zeba-Mushtaq/linkedin-analysis) | Analyzed LinkedIn data to uncover job trends and engagement patterns |
 
 ---
 
 ### Certifications
-
-- Google Cloud — Prompt Design in Vertex AI
+- Google Cloud — Gemini for Data Scientists and Analysts
 - Google Cloud — Orchestrate Multi-agent Workflows with Gemini Enterprise
+- Google Cloud — Human-Centered AI
+- Google Cloud — Gen AI Agents: Transform Your Organization
+- Google Cloud — Prompt Design in Agent Platform
+- Google Cloud — Responsible AI: Applying AI Principles with Google Cloud
+- Google Cloud — Introduction to Responsible AI
+- Google Cloud — Introduction to Large Language Models
+- Google Cloud — Introduction to Generative AI
 - Google Cloud — Gen AI Agents, Human-Centered AI, Responsible AI
 
 ---
