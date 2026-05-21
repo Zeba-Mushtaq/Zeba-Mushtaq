@@ -54,8 +54,3 @@ Former President of MLSA UCP. Bronze Prize winner at the Asian Young Creator Awa
 - Google Cloud — Gen AI Agents, Human-Centered AI, Responsible AI
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zeba-Mushtaq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeba-Mushtaq&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%"/>
-</p>
