@@ -13,8 +13,7 @@
 </div>
 
 ---
-
-<img align="right" alt="AI Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="AI" width="380" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 ### 🌟 Who I Am
 
