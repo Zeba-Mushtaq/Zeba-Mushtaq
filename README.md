@@ -1,9 +1,4 @@
 <div align="center">
-    ![header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=D4A853&center=true&vCenter=true&width=600&height=80&lines=Welcome+to+my+GitHub+%F0%9F%9A%80)
-
-</div>
-
-<div align="center">
 
 # Hi, I'm Zeba 👋
 
