@@ -1,6 +1,6 @@
 <div align="center">
-
-![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Zeba%20Mushtaq&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Specialist%20%7C%20Building%20Intelligent%20Systems&descAlignY=55&descAlign=50)
+    
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:d4a853&height=200&section=header&text=Zeba%20Mushtaq&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Specialist&descAlignY=55&descAlign=50)
 
 </div>
 
