@@ -72,7 +72,7 @@ zeba = {
 | [🌍 AI Destination Explorer](https://zeba-portfolio.vercel.app) | Full-stack AI web app for travel recommendations — FYP **A+ Grade** | ReactJS, NodeJS, MongoDB, NLP |
 | [📊 AI-Powered Data Visualization](https://github.com/Zeba-Mushtaq/AI-Powered-Data-Visualization) | Transforms raw datasets into interactive visuals | Python, Plotly, Pandas |
 | [🔗 LinkedIn Analysis](https://github.com/Zeba-Mushtaq/linkedin-analysis) | Analyzed LinkedIn data to uncover job trends & engagement patterns | Python, Pandas, SQL |
-
+| [🌟 Travel Sentiment Analyzer](https://github.com/Zeba-Mushtaq/travel-sentiment-analytics) · [🚀 Live Demo](https://travel-sentiment-zeba.streamlit.app/) | Analyzes hotel reviews, predicts ratings using ML & identifies topics with NLP | Python, TextBlob, Scikit-learn, Streamlit |
 ---
 
 ### ☁️ Google Cloud Certifications
