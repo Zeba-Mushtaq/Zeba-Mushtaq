@@ -73,6 +73,7 @@ zeba = {
 | [📊 AI-Powered Data Visualization](https://github.com/Zeba-Mushtaq/AI-Powered-Data-Visualization) | Transforms raw datasets into interactive visuals | Python, Plotly, Pandas |
 | [🔗 LinkedIn Analysis](https://github.com/Zeba-Mushtaq/linkedin-analysis) | Analyzed LinkedIn data to uncover job trends & engagement patterns | Python, Pandas, SQL |
 | [🌟 Travel Sentiment Analyzer](https://github.com/Zeba-Mushtaq/travel-sentiment-analytics) · [🚀 Live Demo](https://travel-sentiment-zeba.streamlit.app/) | Analyzes hotel reviews, predicts ratings using ML & identifies topics with NLP | Python, TextBlob, Scikit-learn, Streamlit |
+| [🌍 Tourist Sentiment Analytics](https://github.com/Zeba-Mushtaq/tourist-sentiment-analytics) · [🚀 Live Demo](https://tourist-sentiment-zeba.streamlit.app/) | Analyzes 20,000+ hotel reviews — sentiment, topic modeling & rating prediction | Python, TextBlob, Scikit-learn, LDA, Streamlit |
 ---
 
 ### ☁️ Google Cloud Certifications
