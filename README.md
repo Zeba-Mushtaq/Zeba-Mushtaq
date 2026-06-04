@@ -104,8 +104,7 @@ zeba = {
 </div>
 
 <div align="center">
-
-![streak](https://github-readme-streak-stats.herokuapp.com?user=Zeba-Mushtaq&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=Zeba-Mushtaq&theme=tokyonight&hide_border=true"/>
 
 </div>
 
