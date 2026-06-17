@@ -118,8 +118,15 @@ zeba = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zeba-mushtaq-5b86912a2)
 [![Portfolio](https://img.shields.io/badge/Portfolio-D4A853?style=for-the-badge&logo=vercel&logoColor=white)](https://zeba-portfolio.vercel.app)
 [![AI Chatbot](https://img.shields.io/badge/Travel_AI_Chatbot-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://travelwithzeba.vercel.app)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zebamushtaq4010@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zeba-Mushtaq)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zebamushtaq4010@gmail.com)
+
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://zebabuilds.hashnode.dev)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zebamushtaq)
+[![DEV.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/zebamushtaq)
+[![Twitter/X](https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zebamushtaq)
+[![Contra](https://img.shields.io/badge/Contra-000000?style=for-the-badge&logo=contra&logoColor=white)](https://contra.com/zebamushtaq)
+[![DataTalks.Club](https://img.shields.io/badge/DataTalks.Club-4A90D9?style=for-the-badge&logo=slack&logoColor=white)](https://datatalks-club.slack.com/team/U0B9J64TF0S)
 
 </div>
 
