@@ -19,7 +19,7 @@ I work at the intersection of **data and AI** — building forecasting models, d
 - 🪟 **Former President** — MLSA UCP (Microsoft Learn Student Ambassador)
 - ☁️ **Google Cloud Certified** — 9 certifications
 - ✈️ Built a **live AI Travel Chatbot** — [travelwithzeba.vercel.app](https://travelwithzeba.vercel.app)
-- 🌍 Portfolio: [zeba-portfolio.vercel.app](https://zeba-portfolio.vercel.app)
+- 🌍 Portfolio: [zebamushtaq.vercel.app](https://zebamushtaq.vercel.app/)
 - 📧 Reach me: zebamushtaq4010@gmail.com
 
 <br clear="right"/>
